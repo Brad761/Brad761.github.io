@@ -2634,8 +2634,13 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
-			width: 100%;
+			/* margin: 4rem 0;*/
+			/* Chris Evans about me image basicallyBrad */
+			margin-left: auto;
+			margin-right:auto;
+			width: 500px;
+			height: 650px;
+			
 		}
 
 			.image.main:first-child {
